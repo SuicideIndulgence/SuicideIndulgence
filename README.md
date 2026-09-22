@@ -5,6 +5,11 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=50&color=631717&center=true&width=700&lines=You+just+don't+know+it+yet,+but+you+love+me;and+I+love+you+the+same;One+day+we'll+have+a+pretty+wedding,+and;I'll+be+your+everything+We'll+be+together,+yes+forever,;we+will+never+ever+part;Oh,+you+don't+know+it+yet+but+baby;I've+already+got+your+heart.;..." alt="Typing SVG" /></a>
 
 <p align="center">
+    <img src="https://64.media.tumblr.com/c2dce06ced9cfd2046d23018080eaec3/30c46254c4bea6f3-d9/s400x600/e72fdc114f2afcf5c1b002390e222add03a40279.pnj" />
+</p>
+
+
+<p align="center">
     <img src="https://komarev.com/ghpvc/?username=SuicideIndulgence&base=15&label=pillbottles&color=401010&style=flat" alt="Profile Views" />
 </p>
 
