@@ -10,7 +10,7 @@
 
 
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=SuicideIndulgence&base=15&label=pillbottles&color=401010&style=flat" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=SuicideIndulgence&base=0&label=pillbottles&color=401010&style=flat" alt="Profile Views" />
 </p>
 
 <p align="center"
